@@ -4,5 +4,5 @@ Arduino控制42步进电机的代码
 
 sketch_mar31a.ino 给连接1号和2号步进电机的Arduino烧录
 
-sketch_mar31b.ino 给连接3号和4号步进点击的Arduino烧录
+sketch_mar31b.ino 给连接3号和4号步进电机的Arduino烧录
 
