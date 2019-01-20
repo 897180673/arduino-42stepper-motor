@@ -6,3 +6,4 @@ sketch_mar31a.ino 给连接1号和2号步进电机的Arduino烧录
 
 sketch_mar31b.ino 给连接3号和4号步进电机的Arduino烧录
 
+烧录完成之后,接入整个系统上电即可.
